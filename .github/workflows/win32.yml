@@ -50,4 +50,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: dune3d_msys2
-        path: build/*.exe
+        path: build/*
